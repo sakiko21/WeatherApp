@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import WeatherApp from './components/WeatherApp';
 import './App.css';
 
 function App() {
